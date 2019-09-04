@@ -1,7 +1,7 @@
 Requirements
-*You should have the backend (money-manager-api) running
-*A modern web browser, except microsoft Edge which is not compatible with some dependencies
-*npm
+1. You should have the backend (money-manager-api) running
+2. A modern web browser, except Microsoft Edge which is not compatible with some dependencies
+3.npm
 
 Instructions
 1. Clone this repo or download it
