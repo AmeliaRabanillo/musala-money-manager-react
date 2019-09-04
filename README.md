@@ -1,5 +1,5 @@
 Requirements
-1. You should have the backend (money-manager-api) running
+1. You should have the backend (musala-money-manager-nodejs) running
 2. A modern web browser, except Microsoft Edge which is not compatible with some dependencies
 3.npm
 
